@@ -17,7 +17,7 @@ I am a 3rd-year Engineering student at UBCO, passionate about building automated
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[HandScript ASL Predictor](https://github.com/rMalec29/HandScript-ASL-Predictor)** | A real-time computer vision system that translates American Sign Language alphabet gestures into text using a webcam. | Python, MediaPipe, OpenCV |
-| **[Project 2 Name]((https://github.com/rMalec29/Automated-Lead-Pipeline-Showcase.git))** | [Proprietary] A revenue-generating SaaS tool that automates lead scraping, technical auditing, and cold outreach. | Arduino, C++, Electronics |
+| **[Sales Automation Engine](https://github.com/rMalec29/Automated-Lead-Pipeline-Showcase.git)** | [Proprietary] A revenue-generating SaaS tool that automates lead scraping, technical auditing, and cold outreach. | Arduino, C++, Electronics |
 | **[Project 3 Name](LINK_TO_REPO)** | [One sentence description: e.g., A script that scrapes construction permits to automate lead generation.] | Python, Selenium, Pandas |
 
 ---
