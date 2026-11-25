@@ -19,6 +19,7 @@ I am a 3rd-year Bachelor of Computer Information Systems (BCIS) student at Okana
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Beat Barrage](https://github.com/rMalec29/BeatBarrage)** | An idle tower-defence game that sits on top of your desktop and fires attacks from the bass, mids and highs of whatever music you're playing, using real-time FFT audio analysis. Packaged as a Windows .exe with Steam leaderboard support. | Python, pygame, NumPy |
 | **[TradeSight Platform](#)** | *[Proprietary]* A scalable, multi-tenant web application built to streamline operations, spatial math logic, and secure logistics tracking. | Next.js, FastAPI, Supabase |
 | **[Fire-Detecting Wildfire Drone](https://www.youtube.com/watch?v=gQ_ywKxpABY)** | *[Proprietary]* A UAV engineered for early wildfire detection, featuring a custom Arduino Nano architecture, thermal IR sensor integration, and real-time live-streaming capabilities. | C++, Arduino, SolidWorks, Unreal Engine |
 | **[HandScript ASL Predictor](https://github.com/rMalec29/HandScript-ASL-Predictor)** | A real-time computer vision system that translates American Sign Language alphabet gestures into text using a webcam. | Python, MediaPipe, OpenCV |
